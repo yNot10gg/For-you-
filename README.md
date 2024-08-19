@@ -1,20 +1,3 @@
-<html>
-<meta charset='UTF-8' />
-<meta content='width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5'
-  name='viewport' />
-<meta content='IE=edge' http-equiv='X-UA-Compatible' />
-
-<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.19/dist/sweetalert2.all.min.js"></script>
-<script src="https://unpkg.com/typeit@8.7.0/dist/index.umd.js"></script>
-<link href="https://htmlku.com/akuakan/play/style.css" rel="stylesheet" type="text/css" />
-
-<head>
-  <title>Script HTML Dari Aku Untukmu - feeldream</title>
-  <link rel="icon" type="image/svg+xml" href="https://feeldreams.github.io/main-icon.png">
-  <link rel="apple-touch-icon" href="https://feeldreams.github.io/main-icon.png">
-  <!--
-     
-  Thanks to all <3
 -->
 </head>
 
