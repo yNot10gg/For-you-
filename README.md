@@ -1,161 +1,105 @@
-const wrapper document.querySelector(".wrapper");
+<html>
+<meta charset='UTF-8' />
+<meta content='width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5'
+  name='viewport' />
+<meta content='IE=edge' http-equiv='X-UA-Compatible' />
 
-const question = document.querySelector(".question");
-
-const gif document.querySelector(".gif");
-
-const yesBtn = document.querySelector(".yes-btn");
-
-const noBtn = document.querySelector(".no-btn");
-
-yesBtn.addEventListener("click", () {
-
-question.innerHTML = "Aaaaa, I like you too";
-
-"https://raw.githubusercontent.com/DzarelDeveloper/Img/main/gif.webp"; });
-
-gif.src =
-
-noBtn.addEventListener("mouseover", () {
-
-const noßtnRect noßtn.getBoundingClientRect(); const maxX = window.innerWidth noßtnRect.width;
-
-const maxy window.innerHeight noßtnRect.height;
-
-const randomX = Math.floor(Math.random() maxx); const randomy = Math.floor(Math.random()* maxY);
-
-noßtn.style.left = randomX + "px"; noßtn.style.top randomY + "px"; });
-<!doctype html>
-
-<html lang="en">
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.19/dist/sweetalert2.all.min.js"></script>
+<script src="https://unpkg.com/typeit@8.7.0/dist/index.umd.js"></script>
+<link href="https://htmlku.com/akuakan/play/style.css" rel="stylesheet" type="text/css" />
 
 <head>
-
-<meta charset="UTF-8">
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<title>Message for you</title
-
-<link rel="stylesheet" href="style.css">
-
+  <title>Script HTML Dari Aku Untukmu - feeldream</title>
+  <link rel="icon" type="image/svg+xml" href="https://feeldreams.github.io/main-icon.png">
+  <link rel="apple-touch-icon" href="https://feeldreams.github.io/main-icon.png">
+  <!-- 
+  Made with love by Rayys!
+  
+     Blog: www.feeldream.id
+     Instagram: @rayyarrr
+     TikTok: @feelthisray
+     
+  Thanks to all <3
+-->
 </head>
-
-<div class="wrapper">
 
 <body>
 
-<h2 class="question">You like me?</h2>
+  <div id="bodyblur">
+    <!-- Wallpaper / Background --><img src="https://i.ibb.co/gPF2XhZ/b8fbc39ff32d93a15ce23fe9146e2387.webp"
+      id="wallpaper" />
+  </div>
 
-<img class="gif" alt="gif"
+  <div class="kumpulanstiker">
+    <!-- Stiker untuk Konten -->
+    <img src="https://feeldreams.github.io/pusn.gif" id="stiker1" />
+    <img src="https://feeldreams.github.io/wortel.gif" id="stiker2" />
+    <img src="https://feeldreams.github.io/mndkat.gif" id="stiker3" />
+    <img src="https://feeldreams.github.io/ngumpet.gif" id="stiker4" />
 
-src="https://raw.githubusercontent.com/DzarelDeveloper/Img/main/gifyou.webp"> <div class="btn-group"> <button class="yes-btn">Yes</button> <button class="no-
+    <div id='Content'>
 
-btn">No</button>
+      <div id="suratin" onClick="memulai();audio.play();">
+        <!-- Surat --><img src="https://rayyscoding.github.io/envelope.png" />
+      </div>
+      <p id="ket">Klik Suratnya!</p>
 
-</div>
+      <div>
+        <!-- Foto Akhir -->
+        <img src="https://feeldreams.github.io/pandapukpuk.gif" id="fotoakhir" />
+        <img src="https://feeldreams.github.io/gumush.gif" id="fotoakhir2" />
+      </div>
+      <div>
+        <blockquote id='bq'>
+          <p id="kalimat"></p>
+          <p id="kalimatc"></p>
+        </blockquote>
+      </div>
 
-</div>
+      <!-- Tombol Kirim Pesan -->
+      <div id="Tombol">
+        <a onClick="sjawab()">
+          <b>💌 Balas</b>
+        </a>
+      </div>
 
-<script src="script.js"></script>
+    </div>
 
+    <script src="https://htmlku.com/akuakan/play/script.js"></script>
+
+    <script type="text/javascript">
+      async function pertama() {
+        audio = new Audio('https://audio.jukehost.co.uk/5VfcVfr1D3fIU8m27X85m5HVkPyRIhQr'); showDiv();
+      } pertama();
+
+
+      async function pesan() {
+        await swalst.fire({
+          title: 'Hii Sayanggkuu! 😍',
+          imageUrl: '' + stiker1.src,
+        });
+
+        await swalst.fire({
+          title: 'Sorry tau kalau orang<br>Selalu buat sayang sakit hati🫠',
+          imageUrl: '' + stiker2.src,
+        });
+
+        await swalst.fire({
+          title: 'Dan Buat Sayangg Marah²  🫠',
+          imageUrl: '' + stiker3.src,
+        });
+
+        await swalst.fire({
+          title: 'Orang Just Nak Cakap.. 🫶',
+          imageUrl: '' + stiker4.src,
+        });
+
+        katangetik = "<b class='putih merah fontalt'>Sorry</b> Orang belum boleh jadi<br>yang terbaik buat sayang,<br><br>Orang pun belum boleh nakk memahami sayang dengan baikk dan cara yang sayang ingin kann,<br><br>Orang terlalu banyak kekurangan untuk orang sespesial sayangg,<br><br>Tapi... Orang akan berusaha yang terbaik buat sayang 🥰";
+        katangetik2 = "<i>I Love uuu more</i> 💐🫣🩷";
+
+        setTimeout(kpemb, 200);
+      }
+    </script>
 </body>
 
 </html>
-margin: 0;
-
-padding:
-
-box-sizing: border-box;
-
-}
-
-body (
-
-display: flex;
-
-justify-content: center;
-
-align-items: center;
-
-min-height: 100vh;
-
-background: whitesmoke;
-
-font-family: Verdana, Geneva, Tahoma, sans-serif;
-
-.gif {
-
-height: 100%;
-
-width: 100%;
-
-}
-
-h2 {
-
-text-align: center;
-
-font-size: 1.5em;
-
-color: #e94d58;
-
-margin: 15px 0;
-
-}
-
-.btn-group {
-
-width: 100%;
-
-height: 50px;
-
-display: flex;
-
-justify-content: center;
-
-margin-top: 50px;
-
-}
-
-button (
-
-position: absolute;
-
-width: 150px;
-
-height: inherit;
-
-color: white;
-
-font-size: 1.2em;
-
-border-radius: 30px;
-
-outline: none;
-
-; cursor: pointer
-
-box-shadow: 2px 4px gray;
-
-border: 2px solid #e94d58;
-
-font-size: 1.2em;
-
-}
-
-button:nth-child(1) {
-
-margin-left: -200px;
-
-} button:nth-child(2) {
-
-background: #e94d58;
-
-margin-right: -200px;
-
-background: white;
-
-color: #e94d58;
-
-}
