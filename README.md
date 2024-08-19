@@ -12,12 +12,7 @@
   <title>Script HTML Dari Aku Untukmu - feeldream</title>
   <link rel="icon" type="image/svg+xml" href="https://feeldreams.github.io/main-icon.png">
   <link rel="apple-touch-icon" href="https://feeldreams.github.io/main-icon.png">
-  <!-- 
-  Made with love by Rayys!
-  
-     Blog: www.feeldream.id
-     Instagram: @rayyarrr
-     TikTok: @feelthisray
+  <!--
      
   Thanks to all <3
 -->
