@@ -4,7 +4,7 @@
 <body>
 
   <div id="bodyblur">
-    <!-- Wallpaper / Background --><img src="https://i.ibb.co/gPF2XhZ/b8fbc39ff32d93a15ce23fe9146e2387.webp"
+    <!-- Wallpaper / Background --><img src="<a href="https://ibb.co/7t5g8np"><img src="https://i.ibb.co/r2SbTxp/9nRjGC.jpg" alt="9nRjGC" border="0"></a>"
       id="wallpaper" />
   </div>
 
@@ -53,27 +53,27 @@
 
       async function pesan() {
         await swalst.fire({
-          title: 'Hii Sayanggkuu! 😍',
+          title: 'Hii Sayangg',
           imageUrl: '' + stiker1.src,
         });
 
         await swalst.fire({
-          title: 'Sorry tau kalau orang<br>Selalu buat sayang sakit hati🫠',
+          title: 'Sorry baby buat sayang sakit hati <br>Buat sayang nangis sorang ii buat sayang ovt🫠',
           imageUrl: '' + stiker2.src,
         });
 
         await swalst.fire({
-          title: 'Dan Buat Sayangg Marah²  🫠',
+          title: 'Sorry takk jaga hati sayang dengan baik  🫠',
           imageUrl: '' + stiker3.src,
         });
 
         await swalst.fire({
-          title: 'Orang Just Nak Cakap.. 🫶',
+          title: 'Babyy just nak cakap ',
           imageUrl: '' + stiker4.src,
         });
 
-        katangetik = "<b class='putih merah fontalt'>Sorry</b> Orang belum boleh jadi<br>yang terbaik buat sayang,<br><br>Orang pun belum boleh nakk memahami sayang dengan baikk dan cara yang sayang ingin kann,<br><br>Orang terlalu banyak kekurangan untuk orang sespesial sayangg,<br><br>Tapi... Orang akan berusaha yang terbaik buat sayang 🥰";
-        katangetik2 = "<i>I Love uuu more</i> 💐🫣🩷";
+        katangetik = "<b class='putih merah fontalt'>Sorry</b> Maafkan lelaki ini sayang, baby bukanlah lelaki sempurna  tapii jauh dari kata sempurna,<br><br>maaf kalau perangai baby banyak membuat sayang terasa,<br><br>maaf jugak tak dapat menjadi lelaki yang memahami setiap situasi sayang, baby ni hanyalah lelaki biasa,<br><br>but.... percayalah setiap saat i try untuk jadi lelaki versi terbaik untuk sayangg, tapi maaf kalau selalu gagal.";
+        katangetik2 = "<i>I Love uuu sooo much sayang</i> 💐🫣🩷";
 
         setTimeout(kpemb, 200);
       }
