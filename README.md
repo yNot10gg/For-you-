@@ -4,7 +4,7 @@
 <body>
 
   <div id="bodyblur">
-    <!-- Wallpaper / Background --><img src="<a href="https://ibb.co/7t5g8np"><img src="https://i.ibb.co/r2SbTxp/9nRjGC.jpg" alt="9nRjGC" border="0"></a>"
+    <!-- Wallpaper / Background --><img src="<a href="https://ibb.co/7t5g8np"><img src="https://i.ibb.co/gPF2XhZ/b8fbc39ff32d93a15ce23fe9146e2387.webp"
       id="wallpaper" />
   </div>
 
