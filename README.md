@@ -4,7 +4,8 @@
 <body>
 
   <div id="bodyblur">
-    <!-- Wallpaper / Background --><img src="<a href="https://ibb.co/7t5g8np"><img src="https://camo.githubusercontent.com/b0858b9ff3fced6e24b4d8fd9125510f70e8b16536b7800de47bca6cc6fd0037/68747470733a2f2f6665656c647265616d732e6769746875622e696f2f7770332e6a706567"
+    <!-- Wallpaper / Background -->
+    <img src="https://camo.githubusercontent.com/b0858b9ff3fced6e24b4d8fd9125510f70e8b16536b7800de47bca6cc6fd0037/68747470733a2f2f6665656c647265616d732e6769746875622e696f2f7770332e6a706567"
       id="wallpaper" />
   </div>
 
